@@ -80,8 +80,3 @@ This project demonstrates my ability to:
 - `Walmart Sales Analysis.twb` — Tableau workbook
 - `Walmart_Store_Sales_Clean.xlsx` — cleaned data source
 
-## Dashboard Preview
-Add a screenshot here once available.
-
-```md
-
