@@ -84,5 +84,4 @@ This project demonstrates my ability to:
 Add a screenshot here once available.
 
 ```md
-![Dashboard Preview](PASTE_SCREENSHOT_PATH_HERE)
 
