@@ -3,7 +3,7 @@
 An executive-style Tableau dashboard analyzing historical Walmart retail sales data from **February 2010 to November 2012**. This project transforms raw sales data into a decision-support dashboard focused on **sales performance, seasonality, macroeconomic context, and year-over-year business trends**.
 
 ## Live Dashboard
-[View the interactive Tableau dashboard](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)
+[View the interactive Tableau dashboard](https://public.tableau.com/views/WalmartSalesAnalysis_17728082850710/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Project Overview
 Retail leaders need fast, reliable visibility into performance trends, seasonal demand shifts, and external factors that may influence revenue. This dashboard was built to answer a practical business question:
@@ -85,3 +85,4 @@ Add a screenshot here once available.
 
 ```md
 ![Dashboard Preview](PASTE_SCREENSHOT_PATH_HERE)
+
